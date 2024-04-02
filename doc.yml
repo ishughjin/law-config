@@ -1,0 +1,6 @@
+spring:
+  config :
+    activate :
+      on-profile : "default"
+build:
+  version : "1.0"

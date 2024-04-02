@@ -1,0 +1,13 @@
+spring :
+  config :
+    activate :
+      on-profile : "qa"
+build:
+  version: "1.0"
+
+user:
+  message : "The User Auth API is running"
+  contactDetails :
+    name : "Auth Service
+    "
+    email : "info@incypio.com"
